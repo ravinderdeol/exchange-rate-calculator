@@ -1,1 +1,1 @@
-# exchange-rate-calculator
+# Exchange Rate Calculator
